@@ -21,7 +21,7 @@ document.querySelector('#app').innerHTML = `
     <p>A cool web application built with modern technologies.</p>
   </div>
   <div class="project">
-    <h3>Project 2</h3>
+    <h3>Project vschool</h3>
     <p>An innovative solution for everyday problems.</p>
   </div>
 </section>
