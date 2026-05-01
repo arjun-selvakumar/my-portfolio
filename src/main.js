@@ -17,7 +17,7 @@ document.querySelector('#app').innerHTML = `
 <section id="projects">
   <h2>Projects</h2>
   <div class="project">
-    <h3>Project 1</h3>
+    <h3>Project ARKA</h3>
     <p>A cool web application built with modern technologies.</p>
   </div>
   <div class="project">
