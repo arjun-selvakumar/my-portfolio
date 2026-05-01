@@ -27,7 +27,7 @@ document.querySelector('#app').innerHTML = `
 </section>
 <section id="contact">
   <h2>Contact</h2>
-  <p>Feel free to reach out at <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+  <p>Feel free to reach out at <a href="mailto:arjunselvakumar@outlook.com">arjunselvakumar@outlook.com</a></p>
 </section>
 <footer>
   <p>&copy; 2023 My Portfolio</p>
